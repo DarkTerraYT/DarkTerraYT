@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DarkTerraYT
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning how to code
+- 📫 To reachout to me email: DarkTerraYT@gmail.com
+- 🔴 My YT is at: https://www.youtube.com/channel/UCCFQK4r_trWDc_Wt39cHRyA
