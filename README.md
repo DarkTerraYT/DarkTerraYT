@@ -23,3 +23,7 @@ I have a series on YouTube called How to Mod BTD6 so check it out if you like!
 [Example Mod](https://github.com/DarkTerraYT/ExampleMod) This is for my How to Mod BTD6 series on YouTube.
 
 [Twelve Tier Banana Farm](https://github.com/DarkTerraYT/TwelveTierBananaFarm) This is my first finished mod using Paths++ (I guess you could say Darks Towers Extra Content is the first one)
+
+[Christmas Mod](https://github.com/DarkTerraYT/ChristmasMod) It's a mod for christmas time. I planned to have a round set... but that never happened
+
+[Many Big (and small!) Things](https://github.com/DarkTerraYT/ManyBigThings) Makes towers bigger or smaller. Option to change radius or range of said tower
